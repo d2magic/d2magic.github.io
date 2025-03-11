@@ -1,0 +1,44 @@
+
+:root {
+  --link-color: #a8e6cf;
+}
+
+.dark {
+  /* 首页的介绍处的链接 */
+  .entry-content {
+    a {
+      color: var(--link-color);
+    }
+  }
+/* medium-zoom 图片放大后的背景样式 */
+.medium-zoom-overlay {
+  background: rgba(255, 255, 255, 0.5) !important;
+}
+.dark {
+  .medium-zoom-overlay {
+    background: rgba(0, 0, 0, 0.5) !important;
+  }
+}
+
+.win11 {
+  .medium-zoom-image {
+    cursor: url(../../cursors/zoom-in.svg), default !important;
+  }
+  .medium-zoom--opened .medium-zoom-overlay {
+    cursor: url(../../cursors/zoom-out.svg), default !important;
+  }
+  .medium-zoom-image--opened {
+    cursor: url(../../cursors/zoom-out.svg), default !important;
+  }
+}
+
+/* 去掉文章页面底部的上一页和下一页中链接文字的下划线，这东西浏览器审查元素捕捉不到，不知道为啥 */
+.paginav span:hover:not(.title) {
+  box-shadow: none;
+}
+/* 下一页的那里的内边距调节 */
+.paginav {
+  a {
+    padding-bottom: 0.5em;
+  }
+}
