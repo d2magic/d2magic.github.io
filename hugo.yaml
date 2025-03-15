@@ -138,7 +138,9 @@ params:
   # analytics:
   #     google:
   #         SiteVerificationTag: "XYZabc"
-
+  services:
+    googleAnalytics:
+      id: G-RM2YKTS5P6
   assets:
     disableHLJS: true
     favicon: "favicon.ico"
@@ -194,5 +196,5 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
