@@ -65,3 +65,12 @@ Tags =["D2r Bot","KK Bot" ,"keke Bot"]
 ### Pet Gear(Autolvling)
 
 ![](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202407072054100.png)
+
+------
+{{< quote "#e6ffe6" "#004d00" "#008000" >}}
+<p> D2r Bot for sale at <a href="https://d2bin.com" target="_blank" > https://www.d2bin.com/ </a></p>
+<p>Buy cheap D2r Itmes at <a href="https://d2mule.com" target="_blank"> https://www.d2mule.com/ </a>(Discount Coupon Code: d2mule) </p>
+
+<p> Join our Discord Server:<a href="https://discord.gg/3kaNAgdxgf" target="_blank"> https://discord.gg/3kaNAgdxgf </a></p>
+<p> Lowest price promise – if you find it cheaper, we’ll match it!</p>
+{{< /quote >}}

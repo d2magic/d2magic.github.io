@@ -154,3 +154,12 @@ Tags =["D2r Bot","DB Bot" ,"GID Bot"]
 <div>1. We normal named dbbot folder as db,rename db folder as Old(db3.6), rename New (db3.7) as db when New(db3.7) is available </div>
 <div> 2. Copy db3.6  ~/day/settings.json and ~/D2RB/Settings/  folder  to db ~/day/settings.json and ~/D2RB/Settings/  folder </div>
 {{< /quote >}}
+
+------
+{{< quote "#e6ffe6" "#004d00" "#008000" >}}
+<p> D2r Bot for sale at <a href="https://d2bin.com" target="_blank" > https://www.d2bin.com/ </a></p>
+<p>Buy cheap D2r Itmes at <a href="https://d2mule.com" target="_blank"> https://www.d2mule.com/ </a>(Discount Coupon Code: d2mule) </p>
+
+<p> Join our Discord Server:<a href="https://discord.gg/3kaNAgdxgf" target="_blank"> https://discord.gg/3kaNAgdxgf </a></p>
+<p> Lowest price promise – if you find it cheaper, we’ll match it!</p>
+{{< /quote >}}
