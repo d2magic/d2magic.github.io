@@ -1,6 +1,6 @@
-baseURL: "https://d2magic.github.io/" # 主站的 URL
+baseURL: "https://blog.d2bin.com/" # 主站的 URL
 title: D2r Bot's Blog # 站点标题
-copyright: "©2025 [D2r bot's Blog](https://d2magic.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "©2025 [D2r bot's Blog](https://blog.d2bin.com/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: en-us # 语言
 
