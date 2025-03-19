@@ -140,7 +140,7 @@ params:
   #         SiteVerificationTag: "XYZabc"
   services:
     googleAnalytics:
-      id: G-RM2YKTS5P6
+      id: G-KEPNX3CGGJ
   assets:
     disableHLJS: true
     favicon: "favicon.ico"
