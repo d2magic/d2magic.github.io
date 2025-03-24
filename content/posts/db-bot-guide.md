@@ -155,6 +155,14 @@ Tags =["D2r Bot","DB Bot" ,"GID Bot"]
 <div> 2. Copy db3.6  ~/day/settings.json and ~/D2RB/Settings/  folder  to db ~/day/settings.json and ~/D2RB/Settings/  folder </div>
 {{< /quote >}}
 
+#### D2r DB Bot Sorc Auto-Leveling Video
+
+{{< youtube pKVN6Hd9KUg >}}
+
+#### D2r DB Bot Pickit Guide
+
+{{< youtube pls9ce73YH0 >}}
+
 ------
 {{< quote "#e6ffe6" "#004d00" "#008000" >}}
 <p> D2r Bot for sale at <a href="https://d2bin.com" target="_blank" > https://www.d2bin.com/ </a></p>
