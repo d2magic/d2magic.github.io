@@ -1,4 +1,4 @@
-baseURL: "https://blog.d2bin.com/" # 主站的 URL
+baseURL: "https://d2magic.github.io/" # 主站的 URL
 title: D2r Bot's Blog # 站点标题
 copyright: "©2025 [D2r bot's Blog](https://blog.d2bin.com/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
@@ -140,7 +140,7 @@ params:
   #         SiteVerificationTag: "XYZabc"
   services:
     googleAnalytics:
-      id: G-KEPNX3CGGJ
+      id: G-RM2YKTS5P6
   assets:
     disableHLJS: true
     favicon: "favicon.ico"
