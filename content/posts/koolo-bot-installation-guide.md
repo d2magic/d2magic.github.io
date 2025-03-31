@@ -68,6 +68,17 @@ https://discord.gg/zgFMyzAFHE
 
 ![img](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202503151048092.png)
 
+- Preparing the character
+{{< quote "#ffe6e6" "#660000" "#ff3333" >}}
+- Koolo will read game keybindings in order to use the skills, doesn't matter what key is used, but the skills for the build must be set.
+- For blizzard sorceress, set the **left** skill to Glacial Spike or Ice Blast, and for Hammerdin to Blessed Hammer.
+- Foh set keybind for FOH and holybolt on left skill, conviction on right skill
+- Berserk barb set berserk as left skill. Also to use FindItem you need higher goldfind on secondary weapons slot. Alibaba + anything will work.
+- Buy TP and ID tomes and one stack of keys and keep them in the inventory, additionally set the TP tome to a key binding, this is **required**.
+- Horadric Cube can be stashed or kept in inventory, Koolo will use it to cube recipes if enabled.
+- Keep the charms in the inventory, Koolo can be configured to lock specific inventory slots.
+{{< /quote >}}
+
 - Click "Start" when all done
 
 ![img](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202503151051088.png)
