@@ -5,6 +5,7 @@ title = 'Hyper-V GPU Passthrough Guide'
 Categories = ["D2r Tools"]
 Tags =["D2r Bot","DB Bot" ,"GID Bot"]
 +++
+
 ## Hyper-V Manager Virtual Machine & GPU Passthrough Guide
 
 This guide will assume you already have Hyper-V installed. See [**this guide here**](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) to learn how. Please note you can still [**enable this on windows home edition**](https://www.xda-developers.com/how-to-install-hyper-v-windows-11-home/#:~:text=Open the Settings app and,may have to restart afterwards.).
