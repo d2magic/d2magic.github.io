@@ -13,20 +13,21 @@ Tags =["D2r Bot","steam","db bot" ]
 It's done the same as Steam license (mode 4 in global settings options in DB Bot Client) </p>
 {{< /quote >}}
 
-> [!CAUTION]
->
-> We have tested several botting methods. With generic techniques, the bots were quickly detected and banned. However, we have implemented a specialized 'Steam-specific' approach, and **so far**, it is **running undetected**.
-
-
+{{< quote "#e6ffe6" "#004d00" "#008000" >}}
+<p>We have tested several botting methods. With generic techniques, the bots were quickly detected and banned. However, we have implemented a specialized 'Steam-specific' approach, and **so far**, it is **running undetected**.
+</p>
+{{< /quote >}}
 
 ### In general it's wrapping Bnet account into Steam Launcher
 
 ### What is required:  
 
+{{< quote "#ffe6e6" "#660000" "#ff3333" >}}
 - Bnet Account (u need to buy d2r game)
 - Bnet version of game installed  
 - Clean and Fresh Steam Account, does not need to own D2R (no license on Steam ) 
 - DB Bot 
+{{< /quote >}}
 
 Make sure Mode 4 is selected in Global Settings:  
 
@@ -68,10 +69,9 @@ Close steam, open again day client and press start.  It will open steam client a
 
 
 
-> [!IMPORTANT]
->
-> It needs a little bit of help every time Steam client is restarted:  
-
+{{< quote "#f0f8ff" "#003366" "#007bff" >}}
+<p>It needs a little bit of help every time Steam client is restarted:  </p>
+{{< /quote >}}
 1) Cancel search by pressing X on search window to clear search 
 2) Select manually added D2r game so you can see big green Play button  
 3) Now day should be able to see this button and press Play and proceed with starting game and running D2RB itself.  
