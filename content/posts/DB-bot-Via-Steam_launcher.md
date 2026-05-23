@@ -6,11 +6,12 @@ Categories = ["D2r Tools"]
 Tags =["D2r Bot","steam","db bot" ]
 +++
 ## How to run BNet license with current (April 2026) version of DB Bot/Steam 
+{{< quote "#fffae3" "#663300" "#ff9900" >}}
+ <p>We have pretty good technical expertise and I have very strong feeling that "safety" of Steam usage is only related to a separation between user processes (containerization) (one limited OS user account runs d2r, another runs DB Bot). It does not let D2R processes read whole memory and identify bot process.
 
-> We have pretty good technical expertise and I have very strong feeling that "safety" of Steam usage is only related to a separation between user processes (containerization) (one limited OS user account runs d2r, another runs DB Bot). It does not let D2R processes read whole memory and identify bot process.
->
 
-It's done the same as Steam license (mode 4 in global settings options in DB Bot Client)
+It's done the same as Steam license (mode 4 in global settings options in DB Bot Client) </p>
+{{< /quote >}}
 
 > [!CAUTION]
 >
