@@ -1,6 +1,6 @@
 +++
 date = '2025-03-09T09:57:42+08:00'
-draft = false
+draft = true
 title = 'D2r Mod -- Vantablack Premium Mod'
 Categories = ["D2r Tools"]
 Tags =["D2r Bot","d2r mods" ,"d2r mod","hdblock","Vantablack","DB Bot","GID Bot","Koolo Bot"]

@@ -99,9 +99,9 @@ Tags =["D2r Bot","DB Bot" ,"GID Bot"]
 
 > ![day_admin](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209120412594.PNG)
 
-##### Add Bot Info
+##### Add Bot Info (launch bot via Steam)
 
-> ![add_bot_info](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202209120407669.png)
+> how to launch bot via Steam  https://blog.d2bin.com/posts/db-bot-via-steam_launcher/
 
 ##### Bots Mode
 
