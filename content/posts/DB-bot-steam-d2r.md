@@ -1,6 +1,6 @@
 +++
 date = '2026-03-22T01:01:50+08:00'
-draft = false
+draft = true
 title = 'DB Bot Steam For D2r'
 Categories = ["D2r Tools"]
 Tags =["D2r Bot","steam","db bot" ]
